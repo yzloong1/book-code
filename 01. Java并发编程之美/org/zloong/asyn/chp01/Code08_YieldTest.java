@@ -1,4 +1,4 @@
-package org.yzl.asyn.chp01;
+package org.zloong.asyn.chp01;
 
 /**
  * Description：让出 CPU 执行权的 yield 方法

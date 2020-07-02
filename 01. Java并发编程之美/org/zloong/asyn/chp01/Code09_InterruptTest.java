@@ -1,4 +1,4 @@
-package org.yzl.asyn.chp01;
+package org.zloong.asyn.chp01;
 
 /**
  * Description：根据中断标志判断线程是否终止

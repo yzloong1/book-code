@@ -1,4 +1,4 @@
-package org.yzl.asyn.chp01;
+package org.zloong.asyn.chp01;
 
 /**
  * Description：Thread 类的 join 方法。

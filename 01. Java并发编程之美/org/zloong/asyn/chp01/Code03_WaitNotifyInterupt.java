@@ -1,4 +1,4 @@
-package org.yzl.asyn.chp01;
+package org.zloong.asyn.chp01;
 
 /**
  * Description：当一个线程调用共享对象的 wait()方法被阻塞挂起后，如果其他线程中断了该线程，则该线程会抛出 InterruptedException 异常并返回。
